@@ -4,7 +4,6 @@ Console.Clear();
 Console.WriteLine("Программа выдаёт сумму натуральных элементов в промежутке от M до N с помощью рекурсии");
 
 int first = 0;
-int sum = 0;
 first = AskForInput("меньшее");
 int second = AskForInput("большее");
 
